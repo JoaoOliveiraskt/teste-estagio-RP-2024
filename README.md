@@ -14,6 +14,11 @@ Para os exercícios 2 e 5, é necessário instalar a dependência `prompt-sync`.
 npm install
 ```
 
-## Executando os exercícios
+### 3. Executando os exercícios
+
+No terminal digite:
+```bash
+node nome-do-arquivo
+```
 
 Siga as instruções de cada exercício que o programa irá imprimir o resultado no console.
