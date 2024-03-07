@@ -16,4 +16,4 @@ npm install
 
 ## Executando os exercícios
 
-Siga as instruções de cada exercício que o programa irá imprimir no console o resultado
+Siga as instruções de cada exercício que o programa irá imprimir o resultado no console.
